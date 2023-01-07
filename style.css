@@ -112,8 +112,8 @@ cursor: pointer;
 }
 .section-title{
     text-align: center;
-    font-weight: 700;
-    font-size: 35px;
+    font-weight: 600;
+    font-size: 18px;
     margin-bottom: 30px;
     
 }
@@ -153,6 +153,7 @@ cursor: pointer;
 .latest-heading{
     text-align: center;
     margin-bottom: 20px;
+    font-size: 30px;
 }
 .latest{
     background: #FFFFFF;
@@ -178,7 +179,7 @@ margin-bottom: 15px;
     gap:50px;
     background: #FFF8F3;
     /* padding: 120px 80px; */
-    height: 300px;
+    /* height: 300px; */
     padding: 50px;
 
 }
@@ -194,6 +195,7 @@ margin-bottom: 15px;
     display: flex;
     /* align-items: center; */
     gap: 5px;
+    margin-top: 20px;
 }
 .icon a{
     display: inline-block;
